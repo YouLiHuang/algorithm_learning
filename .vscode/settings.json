@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "string_view": "c",
+        "list.h": "c",
+        "common.h": "c",
+        "hashlistmap.h": "c"
+    }
+}

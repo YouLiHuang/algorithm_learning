@@ -1,0 +1,14 @@
+[
+{
+  "directory": "I:/learning/prj/hash_map/build",
+  "command": "D:\\MinGW\\mingw64\\bin\\gcc.exe  @CMakeFiles/hashlistmap.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\hashlistmap.dir\\hashListMap.c.obj -c I:\\learning\\prj\\hash_map\\hashListMap.c",
+  "file": "I:/learning/prj/hash_map/hashListMap.c",
+  "output": "CMakeFiles/hashlistmap.dir/hashListMap.c.obj"
+},
+{
+  "directory": "I:/learning/prj/hash_map/build",
+  "command": "D:\\MinGW\\mingw64\\bin\\gcc.exe  @CMakeFiles/hashlistmap.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\hashlistmap.dir\\list.c.obj -c I:\\learning\\prj\\hash_map\\list.c",
+  "file": "I:/learning/prj/hash_map/list.c",
+  "output": "CMakeFiles/hashlistmap.dir/list.c.obj"
+}
+]
